@@ -1,5 +1,27 @@
 # Changelog
 
+## utf8 1.2.6.9021 (2026-09-13)
+
+### Features
+
+#### ci
+
+- Align the `revdep2`, `revdep4` and `revdepx` subsystems with
+  `rigraph`.
+
+### Chore
+
+- Auto-update from GitHub Actions
+  ([\#111](https://github.com/krlmlr/utf8/issues/111)).
+
+### fledge
+
+- Bump version to 1.2.6.9018
+  ([\#113](https://github.com/krlmlr/utf8/issues/113)).
+
+- Bump version to 1.2.6.9017
+  ([\#112](https://github.com/krlmlr/utf8/issues/112)).
+
 ## utf8 1.2.6.9020 (2026-09-05)
 
 ### Bug fixes
